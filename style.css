@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+*{ margin:0; padding:0;}
+.head{ height:80px; background:rgba(76,162,232,1.00);}
+.title{ width:20%; height:80px; margin-left:2%;}
+.title h1{ line-height:80px; color:#FFF; text-shadow:1px 1px 1px #000;}
+.nav{ width:70%; height:80px; margin-right:2%;}
+
